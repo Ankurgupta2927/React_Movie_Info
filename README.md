@@ -1,13 +1,24 @@
+# Movie Search App
 
-## Available Scripts
+This is a React application that uses the TMDb (The Movie Database) API to search for movie information.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Search for movies by title
+- Display movie details including title, overview, release date, and rating
+- Responsive design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000/](http://localhost:3000/) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+## Prerequisites
 
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- TMDb API Key
 
-App is ready to be deployed!
+## Getting Started
+
+### 1. Clone the Repository
+
+```sh
+git clone https://github.com/yourusername/moviesearchapp.git
+cd moviesearchapp
 
